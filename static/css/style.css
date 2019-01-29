@@ -1,0 +1,14 @@
+body{
+    background-color: #ccc;
+}
+
+.number-box{
+    font-size: 64px;
+    text-align: center;
+    line-height: normal;
+    color: red;
+}
+
+.container{
+    display: flex;
+}
